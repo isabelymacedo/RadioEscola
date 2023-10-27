@@ -1,0 +1,17 @@
+:root {
+    --cinza: #aaa;
+    --vermelha: #e93d50;
+    --vermelha-escura: #af303f;
+    --branca: #fff;
+    --luz: rgb(229, 255 , 0);
+  }
+  
+  body {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(45deg, #a7cfdf 0%, #23538a 100%);
+
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Monstserrad', sans-serif;
+    min-height: 100vh;}
