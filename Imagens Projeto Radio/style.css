@@ -14,4 +14,11 @@
     justify-content: center;
     flex-direction: column;
     font-family: 'Monstserrad', sans-serif;
-    min-height: 100vh;}
+    min-height: 100vh;
+}
+
+h1 {
+    color: var(--branca);
+    margin-bottom: 20px;
+    font-size: 2rem;
+ }
